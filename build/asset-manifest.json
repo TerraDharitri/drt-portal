@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.628cc2b5.css",
+    "main.js": "/static/js/main.3e9a5977.js",
+    "static/js/685.cc7db427.chunk.js": "/static/js/685.cc7db427.chunk.js",
+    "static/media/image4.jpg": "/static/media/image4.d9a2d55cd43156d14ed2.jpg",
+    "static/media/drt_pjt_demo.webp": "/static/media/drt_pjt_demo.d18d13b91e9a3c17f2b2.webp",
+    "static/media/logo.svg": "/static/media/logo.809fc06db2001673e1e4e1cd1e3dc791.svg",
+    "static/media/image3.jpeg": "/static/media/image3.0fcff05b54bf8ab3baac.jpeg",
+    "static/media/image1.webp": "/static/media/image1.740f3fd6be430d6d6383.webp",
+    "static/media/image2.jpg": "/static/media/image2.f870a55c82b9de995cf2.jpg",
+    "static/media/404.jpg": "/static/media/404.581f77cd93940e0ec85d.jpg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.628cc2b5.css",
+    "static/js/main.3e9a5977.js"
+  ]
+}
